@@ -4,10 +4,11 @@
 
 **A production-grade, zero-dependency Computer-Based Testing (CBT) portal with real-time countdown timers, interactive question palettes, automated grading, anti-cheat auto-proctoring, and official printable certificates.**
 
+[![Build & Deploy](https://github.com/sethukonatala-PROgram/online-examination-system_student/actions/workflows/deploy.yml/badge.svg)](https://github.com/sethukonatala-PROgram/online-examination-system_student/actions/workflows/deploy.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Curriculum](https://img.shields.io/badge/B.Tech%20CSE-2nd%20Year%20Capstone-2563eb.svg)](#academic-curriculum-alignment)
 [![Zero Dependencies](https://img.shields.io/badge/Dependencies-Zero%20(Pure%20Vanilla)-16a34a.svg)](#)
-[![Deployment](https://img.shields.io/badge/Deployment-GitHub%20Pages%20Ready-0284c7.svg)](#-free-github-pages-hosting)
+[![Deployment](https://img.shields.io/badge/Deployment-GitHub%20Pages%20Live-16a34a.svg)](https://sethukonatala-program.github.io/online-examination-system_student/)
 [![UI Style](https://img.shields.io/badge/UI-Professional%20Enterprise%20(HackerRank%20Style)-475569.svg)](#)
 
 [Live Demo](#-quick-start) • [Key Features](#-key-features) • [Curriculum Fit](#academic-curriculum-alignment) • [Viva Q&A](#-viva-voce-lab-examination-guide) • [GitHub Setup](#-how-to-push-to-github)
