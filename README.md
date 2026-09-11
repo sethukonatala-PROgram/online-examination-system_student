@@ -115,14 +115,15 @@ Double-click [`run.bat`](run.bat) in the project directory.
 1. Push this repository to your GitHub account.
 2. Go to **Settings** → **Pages**.
 3. Under **Build and deployment** → **Source**, choose **GitHub Actions**.
-4. The included workflow in [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) will deploy the site online!
+4. The included workflow in [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) will deploy the site online at:
+   👉 **`https://sethukonatala-program.github.io/online-examination-system_student/`**
 
 ---
 
 ## 📁 Repository Structure
 
 ```
-student_management_system/
+online-examination-system_student/
 ├── .github/
 │   └── workflows/
 │       └── deploy.yml              # GitHub Pages CI/CD workflow

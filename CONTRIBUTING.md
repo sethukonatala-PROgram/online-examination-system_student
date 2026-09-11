@@ -7,8 +7,8 @@ Thank you for contributing to **ExamPulse - Smart Online Examination & Assessmen
 1. **Fork the Repository**: Click Fork on GitHub.
 2. **Clone your fork**:
    ```bash
-   git clone https://github.com/sethukonatala-PROgram/student_management_system.git
-   cd student_management_system
+   git clone https://github.com/sethukonatala-PROgram/online-examination-system_student.git
+   cd online-examination-system_student
    ```
 3. **Create a branch**:
    ```bash
